@@ -1,0 +1,6 @@
+
+/** GLOBAL IGNORES */
+
+venv/*
+.env
+SECRETS
