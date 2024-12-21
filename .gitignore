@@ -1,6 +1,7 @@
-
 /** GLOBAL IGNORES */
 
-venv/*
+/** environment variabes and packages / SECRETS */
+
+env/
 .env
 SECRETS
